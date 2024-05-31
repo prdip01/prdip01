@@ -1,7 +1,7 @@
 - 👋 Hi, Pradeep Kumar 
 - 👀 I’m interested in History but i don't know Why I am here !
-- 🌱 I’m currently learning  the indian ancient civilization  & HTML ,CSS And JS  
-- 💞️ I’m looking to collaborate on Enol Musk for Marsh mission
+- 🌱 I’m currently learning  on the indian ancient civilization  & HTML ,CSS And JS  
+- 💞️ I’m looking to collaborate on Elon  Musk for Marsh mission
 - 📫 you can  reach me  by my intsa - prdip01 ( And i am Unavailable during my exam.)...
 - 😄  Fun fact:I am a computer science engineer 
 - ⚡  I'm a good photographer and interested in politics..
