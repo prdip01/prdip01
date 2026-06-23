@@ -37,8 +37,8 @@
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
 | B.Tech CSE | GEC Palamu, JUT | 2022–2026 | CGPA: 7.06/10 |
-| Senior Secondary (XII) | Guru Gobind Singh Public School, CBSE | 2021 | 72% |
-| Secondary (X) | Rainbow Public School, CBSE | 2019 | 70% |
+| Senior Secondary (XII) | Guru Gobind Singh Public School, CBSE | 2021 |  |
+| Secondary (X) | Rainbow Public School, CBSE | 2019 |  |
 
 **Relevant Coursework:** DSA, AI, ML, OS, Computer Graphics, Compiler Design, OOPs, REST APIs, SDLC
 
@@ -75,15 +75,6 @@
 
 ---
 
-## 🏆 Achievements & Activities
-
-- Organized sports and esports tournaments (2024–25) at college level
-- Sports Volunteer at Annual Sports Function, GEC Palamu
-- Volunteer for college cultural and annual functions
-- Co-organised Annual Sports Function, GEC Palamu
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prdip01&show_icons=true&theme=tokyonight&hide_border=true)
@@ -96,7 +87,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-kumar-53a9502a6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:iamprdip160@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/prdip01)
 
