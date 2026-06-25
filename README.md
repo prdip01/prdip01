@@ -34,9 +34,9 @@
 
 ## 🎓 Education
 
-| Degree | Institution | Year | Score |
+| Degree | Institution | Year | |
 |--------|-------------|------|-------|
-| B.Tech CSE | GEC Palamu, JUT | 2022–2026 | CGPA: 7.06/10 |
+| B.Tech CSE | GEC Palamu, JUT |2026 |  |
 | Senior Secondary (XII) | Guru Gobind Singh Public School, CBSE | 2021 |  |
 | Secondary (X) | Rainbow Public School, CBSE | 2019 |  |
 
